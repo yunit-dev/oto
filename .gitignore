@@ -1,0 +1,4 @@
+config.py
+oto.db
+__pycache__/
+.env
